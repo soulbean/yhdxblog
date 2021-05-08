@@ -1,0 +1,4 @@
+// blogConfig
+module.exports = {
+  
+}
